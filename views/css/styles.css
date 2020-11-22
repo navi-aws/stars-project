@@ -1,0 +1,51 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+body {
+    background: #020A1B;
+    color: #ffffff;
+    font-family: 'Merriweather', sans-serif;
+}
+
+h1,
+h2 {
+    font-weight: bold;
+    text-align: center;
+    color: #ff1a1a;
+    }
+
+p {
+    font-size: 16px;
+    color: white;
+}
+
+.jumbotron {
+    background: #00aecd;
+    color:orange;
+    text-align: center;
+}
+
+.jumbotron p {
+    color: yellow;
+    font-size: 15px;
+}
+
+.btn-primary {
+    color: #ffff00;
+    text-color: #000000;
+    border-color: white;
+    margin-bottom: 5px;
+}
+
+img,
+video,
+audio {
+    margin-top: 10px;
+    max-width: 60%;
+}
+
+div.caption: {
+    float: left;
+    clear: both;
+}
